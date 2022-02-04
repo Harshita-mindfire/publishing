@@ -13,7 +13,7 @@ site:
     siteUrl: 'https://Harshita-mindfire.github.io'
     assetsPrefix: /publishing
     usePrettyRefs: true
-    title: Testing-Publish
+    title: Dendron
     description: Personal knowledge space
     siteLastModified: true
     gh_edit_branch: main
